@@ -1,2 +1,2 @@
 # myfirstwebsite
-My first Web Site done in HTML &amp; CSS!
+My first website done in HTML &amp; CSS!
